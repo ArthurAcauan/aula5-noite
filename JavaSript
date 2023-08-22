@@ -1,0 +1,27 @@
+/*
+* Arthur Acauan
+* Primeiro comentario
+*/
+console.log("ola mundo!");
+//prompt("digite seu nome");
+
+//variaveis
+const VariavelA = 100;
+const VariavelB = VariavelA + 50;
+console.log(VariavelB);
+
+let numero = 50;
+console.log(numero);
+numero = 80;
+console.log(numero);
+
+const nome = "Arthur"
+const idade = 17
+
+console.log("ola!", "Meu nome é ", nome, "e eu tenho", idade, "anos.");
+
+let primeironome1 = "Arthur"
+let sobrenome = "Acauan"
+let idade1 = 17
+let estudante = "sim sou estudante"
+console.log("Ola", "Meu nome é ", primeironome1,"meu sobrenome é", sobrenome, "e eu tenho", idade1, "anos", "e", estudante);
